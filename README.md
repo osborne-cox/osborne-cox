@@ -60,6 +60,7 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/sheethead)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ub308784@gmail.com)
+[![hh.ru](https://img.shields.io/badge/hh.ru-резюме-red?style=flat-square)](https://hh.ru/resume/d1df9752ff0d4c54e20039ed1f5a694934346c)
 
 ---
 
