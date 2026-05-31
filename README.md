@@ -52,9 +52,9 @@ Right now I'm building my portfolio and looking for my first commercial QA role.
 
 ## Currently improving
 
-- 🤖 Python + Playwright — UI test automation
-- 🔌 REST API testing — Postman, status codes, JSON schemas
-- 🗄 SQL — data verification between the frontend and the database
+-  Python + Playwright — UI test automation
+-  REST API testing — Postman, status codes, JSON schemas
+-  SQL — data verification between the frontend and the database
 
 ---
 
