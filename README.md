@@ -66,6 +66,4 @@ Right now I'm building my portfolio and looking for my first commercial QA role.
 
 ---
 
----
-
 *Meticulous to a fault — for a tester that's a feature, not a personality bug.*
