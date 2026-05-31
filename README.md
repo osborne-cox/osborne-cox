@@ -64,6 +64,3 @@ Right now I'm building my portfolio and looking for my first commercial QA role.
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ub308784@gmail.com)
 [![hh.ru](https://img.shields.io/badge/hh.ru-resume-red?style=flat-square)](https://hh.ru/resume/d1df9752ff0d4c54e20039ed1f5a694934346c)
 
----
-
-*Meticulous to a fault — for a tester that's a feature, not a personality bug.*
