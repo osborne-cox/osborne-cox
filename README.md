@@ -1,4 +1,4 @@
-# Привет, я Данил 
+# Привет, я Данил
 
 **Junior QA Engineer** · Python + Playwright
 
@@ -12,9 +12,9 @@
 
 **Тестирование**
 
-![Manual Testing](https://img.shields.io/badge/Manual_Testing-passed-blue?style=flat-square)
-![ISTQB](https://img.shields.io/badge/ISTQB-Foundation-informational?style=flat-square)
-![Functional](https://img.shields.io/badge/Functional%20%7C%20Regression-done-green?style=flat-square)
+![Manual Testing](https://img.shields.io/badge/Manual_Testing-blue?style=flat-square)
+![ISTQB](https://img.shields.io/badge/ISTQB_Foundation-in_progress-lightgrey?style=flat-square)
+![Functional](https://img.shields.io/badge/Functional_%7C_Regression-grey?style=flat-square)
 
 **Инструменты**
 
@@ -40,17 +40,10 @@
 
 | Проект | Описание | Стек |
 |---|---|---|
-| [qa-portfolio](https://github.com/osborne-cox/qa-portfolio) | Тест-план, тест-кейсы, чек-листы и баг-репорты для демо-приложений | Markdown, TestRail-формат |
+| [qa-portfolio](https://github.com/osborne-cox/qa-portfolio) | Тест-план, тест-кейсы, чек-листы и баг-репорты для демо-приложений | Markdown, тест-дизайн |
 | [api-testing](https://github.com/osborne-cox/api-testing) | Postman-коллекция с авто-тестами, покрытие негативных сценариев | Postman, REST API, JSON |
 | [ui-autotests](https://github.com/osborne-cox/ui-autotests) | UI-автотесты по паттерну Page Object Model | Python, Playwright, Pytest |
 | [sql-practice](https://github.com/osborne-cox/sql-practice) | SQL-запросы для верификации тестовых данных | PostgreSQL |
-
----
-
-## 📈 Активность
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=osborne-cox&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osborne-cox&layout=compact&theme=dark&hide_border=true)
 
 ---
 
@@ -67,7 +60,6 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/sheethead)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ub308784@gmail.com)
-[![hh.ru](https://img.shields.io/badge/hh.ru-резюме-red?style=flat-square)](https://hh.ru/resume/YOUR_RESUME_LINK)
 
 ---
 
