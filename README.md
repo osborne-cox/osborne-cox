@@ -1,4 +1,4 @@
-# Привет, я Данил 👋
+# Привет, я Данил 
 
 **Junior QA Engineer** · Python + Playwright
 
