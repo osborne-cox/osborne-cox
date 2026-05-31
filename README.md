@@ -1,4 +1,4 @@
-# Hi, I'm Danil
+# Hi, I'm Osborne-Cox
 
 **Junior QA Engineer** · Python + Playwright
 
@@ -11,7 +11,7 @@ Right now I'm building my portfolio and looking for my first commercial QA role.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Testing**
 
@@ -39,7 +39,7 @@ Right now I'm building my portfolio and looking for my first commercial QA role.
 
 ---
 
-## 📂 Portfolio
+## Portfolio
 
 | Project | Description | Stack |
 |---|---|---|
@@ -50,7 +50,7 @@ Right now I'm building my portfolio and looking for my first commercial QA role.
 
 ---
 
-## 🎯 Currently Learning
+## Currently improving
 
 - 🤖 Python + Playwright — UI test automation
 - 🔌 REST API testing — Postman, status codes, JSON schemas
@@ -58,12 +58,10 @@ Right now I'm building my portfolio and looking for my first commercial QA role.
 
 ---
 
-## 📫 Contacts
+## Contacts
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/sheethead)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ub308784@gmail.com)
 [![hh.ru](https://img.shields.io/badge/hh.ru-resume-red?style=flat-square)](https://hh.ru/resume/d1df9752ff0d4c54e20039ed1f5a694934346c)
 
 ---
-
-*Meticulous to a fault — for a tester that's a feature, not a personality bug.*
